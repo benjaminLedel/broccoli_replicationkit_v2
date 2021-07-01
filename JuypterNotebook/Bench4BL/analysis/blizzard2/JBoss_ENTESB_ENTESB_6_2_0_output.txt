@@ -1,0 +1,8 @@
+3072	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/37.java	6
+3276	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/37.java	1
+3276	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/10.java	7
+2582	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/36.java	4
+2980	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/36.java	4
+2729	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/245.java	2
+2729	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/244.java	4
+2729	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/JBoss_ENTESB_ENTESB_6_2_0/243.java	6

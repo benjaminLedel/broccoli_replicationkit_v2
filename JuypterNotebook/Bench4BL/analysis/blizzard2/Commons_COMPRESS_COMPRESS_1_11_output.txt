@@ -1,0 +1,4 @@
+355	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Commons_COMPRESS_COMPRESS_1_11/55.java	1
+356	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Commons_COMPRESS_COMPRESS_1_11/54.java	3
+348	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Commons_COMPRESS_COMPRESS_1_11/46.java	3
+351	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Commons_COMPRESS_COMPRESS_1_11/98.java	1

@@ -1,0 +1,12 @@
+14791	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1188.java	4
+14923	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1178.java	1
+15052	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1485.java	2
+14926	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/2302.java	3
+14926	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/2278.java	4
+14926	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/2279.java	8
+15216	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1548.java	1
+15217	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1548.java	1
+14777	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1477.java	6
+14905	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1178.java	1
+14811	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1477.java	1
+15582	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_HBASE_HBASE_0_98_16/1542.java	2

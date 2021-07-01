@@ -1,0 +1,6 @@
+10064	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_16_3/6889.java	5
+9862	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_16_3/11411.java	1
+10342	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_16_3/11532.java	1
+10200	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_16_3/7780.java	1
+9866	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_16_3/10668.java	3
+10157	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_16_3/7651.java	1

@@ -1,0 +1,4 @@
+1232	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_DATAMONGO_DATAMONGO_1_6_2/210.java	2
+1236	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_DATAMONGO_DATAMONGO_1_6_2/65.java	9
+1180	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_DATAMONGO_DATAMONGO_1_6_2/213.java	1
+1166	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_DATAMONGO_DATAMONGO_1_6_2/142.java	7

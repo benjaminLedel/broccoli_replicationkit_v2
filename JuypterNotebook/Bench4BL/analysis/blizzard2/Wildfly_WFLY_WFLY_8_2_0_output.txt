@@ -1,0 +1,8 @@
+4106	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/8543.java	8
+4198	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/2618.java	1
+4198	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/2619.java	2
+4139	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/143.java	1
+4908	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/3601.java	4
+4464	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/1101.java	1
+4277	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/3911.java	1
+4277	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFLY_WFLY_8_2_0/3910.java	3

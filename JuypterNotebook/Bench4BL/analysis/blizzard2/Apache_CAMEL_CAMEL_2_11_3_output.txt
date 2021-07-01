@@ -1,0 +1,2 @@
+7239	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_11_3/868.java	1
+7287	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Apache_CAMEL_CAMEL_2_11_3/6633.java	1

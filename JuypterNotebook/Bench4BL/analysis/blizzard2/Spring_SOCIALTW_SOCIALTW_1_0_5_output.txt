@@ -1,0 +1,2 @@
+57	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_SOCIALTW_SOCIALTW_1_0_5/56.java	1
+58	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_SOCIALTW_SOCIALTW_1_0_5/61.java	1

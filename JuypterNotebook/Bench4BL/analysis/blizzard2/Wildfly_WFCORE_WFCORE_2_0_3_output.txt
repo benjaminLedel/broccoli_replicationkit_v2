@@ -1,0 +1,2 @@
+1168	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFCORE_WFCORE_2_0_3/787.java	1
+1166	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Wildfly_WFCORE_WFCORE_2_0_3/796.java	4

@@ -1,0 +1,2 @@
+847	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_DATAGRAPH_DATAGRAPH_4_0_0/16.java	4
+847	C:/Users/blede/Downloads/BLIZZARD-Replication-Package-ESEC-FSE2018-master/BLIZZARD-Replication-Package-ESEC-FSE2018-master/Corpus/Spring_DATAGRAPH_DATAGRAPH_4_0_0/33.java	6
